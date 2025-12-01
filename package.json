@@ -54,5 +54,13 @@
     "transform": {
       "\\.[jt]sx?$": "esbuild-jest"
     }
+  },
+  "description": "-   [Правила, рекомендации и порядок проведения](https://github.com/hexlet-college-students/exam-rules)",
+  "main": "eslint.config.js",
+  "bin": {
+    "l9-element-layout-v1": "bin/server.js"
+  },
+  "directories": {
+    "test": "tests"
   }
 }
